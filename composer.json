@@ -1,0 +1,21 @@
+{
+    "name": "nilsonpessim/mvc",
+    "description": "Projeto Básico MVC",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        },
+        "files": [
+            "config.php",
+            "app.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Nilson Pessim",
+            "email": "nilson@techlabs.net.br"
+        }
+    ],
+    "minimum-stability": "dev"
+}
